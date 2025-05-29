@@ -28,3 +28,7 @@ A simple 2D **Space Invaders** game built using **Java Swing**, featuring keyboa
 ## 📁 Screenshot
 ![Screenshot 2025-05-29 151130](https://github.com/user-attachments/assets/4c715e94-ac8d-465e-922c-3ec6092e833a)
 
+##  🎥 Video
+
+https://github.com/user-attachments/assets/feaa8597-b4f8-4ca9-9dfc-5a11c1574f37
+
